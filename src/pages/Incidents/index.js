@@ -62,6 +62,7 @@ export default function Incidents(){
                         <Text style={styles.incidentValue}>{incident.title}</Text>
 
                         <Text style={styles.incidentProperty}>VALOR:</Text>
+
                         <Text style={styles.incidentValue}>
                             {
                                 Intl.NumberFormat('pt-BR',{
