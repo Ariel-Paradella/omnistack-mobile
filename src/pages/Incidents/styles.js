@@ -14,7 +14,7 @@ export default StyleSheet.create({
     },
     headerText:{
         fontSize: 15,
-        color:'#737380',
+        color:'#030396',
     },
     headerTextBold:{
         fontWeight: 'bold',
@@ -29,7 +29,7 @@ export default StyleSheet.create({
     description: {
         fontSize: 16,
         lineHeight: 24,
-        color: '#737380',
+        color: '',
     },
     incidentList:{
         marginTop: 32,
@@ -49,7 +49,7 @@ export default StyleSheet.create({
         marginTop:8,
         fontSize:15,
         marginBottom:24,
-        color:'#737380',
+        color:'#2323fa',
     },
     detailsButton:{
         flexDirection:'row',
@@ -57,7 +57,7 @@ export default StyleSheet.create({
         alignItems: 'center',
     },
     detailsButtonText:{
-        color: '#e02041',
+        color: '#2323fa',
         fontSize:15,
         fontWeight: 'bold',
     },

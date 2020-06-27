@@ -28,7 +28,7 @@ export default StyleSheet.create({
     incidentValue:{
         marginTop:8,
         fontSize:15,
-        color:'#737380',
+        color:'#030396',
     },
     contactBox:{
         padding: 24,
@@ -44,7 +44,7 @@ export default StyleSheet.create({
     },
     heroDescription:{
         fontSize: 15,
-        color: '#737380',
+        color: '#2323fa',
         marginTop: 16,
     },
     actions:{
@@ -53,7 +53,7 @@ export default StyleSheet.create({
         justifyContent: "space-between",
     },
     action:{
-        backgroundColor:'#e02041',
+        backgroundColor:'#2323fa',
         borderRadius: 8,
         height: 50,
         width: '48%',
